@@ -1,1 +1,1 @@
-# AI---Enhanced-Image-Classification.
+# AI-Enhanced-Image-Classification.
